@@ -1,0 +1,28 @@
+{
+    "id": "0D54F721",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1728246640435.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "id": "02eeab4eaeaa4fee8d69acf44399984b",
+        "name": "all_data",
+        "title": "all_data",
+        "language": "Python",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1922680254152,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1728246640435,
+    "read_only": false,
+    "read_only_alternatives": []
+}
